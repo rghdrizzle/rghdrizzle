@@ -1,7 +1,7 @@
 - 👋 Hi, I’m rghdrizzle aka drizzle or you could call me luqmaan
 - 👀 I’m interested in programming and creating new stuffs
 - 🌱 I’m currently learning various technologies in the field of devops and web development and also learning DSA
-- 💞️ I’m looking to collaborate on projects based on java or pyhton and also looking forward to contribute to open source projects related to devops
+- 💞️ I’m looking to collaborate on projects based on java or pyhton and also looking forward to contribute to open source projects
 - 📫 How to reach me : discord:rghdrizzle#2806 email:rockgameplayhakeem@gmail.com business_email:luqmaan1hakeem@gmail.com
 
 
@@ -30,6 +30,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Circleci](https://img.shields.io/badge/circleci-%2320232a.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![Prometheus](https://img.shields.io/badge/prometheus-white.svg?style=for-the-badge&logo=prometheus&logoColor=orange)
 
 
 
