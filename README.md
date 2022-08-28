@@ -31,6 +31,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Circleci](https://img.shields.io/badge/circleci-%2320232a.svg?style=for-the-badge&logo=circleci&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/prometheus-white.svg?style=for-the-badge&logo=prometheus&logoColor=orange)
+![Terraform](https://img.shields.io/badge/terraform-white.svg?style=for-the-badge&logo=terraform&logoColor=purple)
 
 
 
