@@ -1,4 +1,4 @@
-- 👋 Hi, I’m rghdrizzle aka drizzle or you could call me luqmaan
+- 👋 Hi, I’m Luqmaan , you can call me rghdrizzle or drizzle
 - 👀 I’m interested in programming and creating new stuffs
 - 🌱 I’m currently learning various technologies in the field of devops and web development and also learning DSA
 - 💞️ I’m looking to collaborate on projects based on java or pyhton and also looking forward to contribute to open source projects
