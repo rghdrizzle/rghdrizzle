@@ -1,3 +1,4 @@
+<img src=https://c.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif></img>
 - 👋 Hi, I’m Luqmaan , you can call me rghdrizzle or drizzle
 - 👀 I’m interested in programming and creating new stuffs
 - 🌱 I’m currently learning various technologies in the field of devops and web development and also learning DSA
