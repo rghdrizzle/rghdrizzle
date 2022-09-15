@@ -1,9 +1,9 @@
 <img src=https://c.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif></img>
 - 👋 Hi, I’m Luqmaan , you can call me rghdrizzle or drizzle
 - 👀 I’m interested in programming and creating new stuffs
-- 🌱 I’m currently learning various technologies in the field of devops and web development and also learning DSA
-- 💞️ I’m looking to collaborate on projects based on java or pyhton and also looking forward to contribute to open source projects
-- 📫 How to reach me : discord:rghdrizzle#2806 email:rockgameplayhakeem@gmail.com business_email:luqmaan1hakeem@gmail.com
+- 🌱 I’m currently learning various technologies in the field of devops ,web development and learning DSA
+- 💞️ I’m looking to collaborate on projects based on java or pyhton and also looking forward to contribute to open source projects realted to devops tools
+- 📫 How to reach me : discord:rghdrizzle#2806 email:rockgameplayhakeem@gmail.com business_email:luqmaan1hakeem@gmail.com 
 
 
 
