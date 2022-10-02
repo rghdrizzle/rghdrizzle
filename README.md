@@ -38,6 +38,7 @@
 
 <img src ="https://github-readme-stats.vercel.app/api?username=rghdrizzle&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=rghdrizzle&theme=gruvbox&row=1&no-frame=true&no-bg=true)
 
 <!---
 rghdrizzle/rghdrizzle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
