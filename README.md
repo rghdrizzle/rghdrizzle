@@ -5,7 +5,14 @@
 - 💞️ I’m looking to collaborate on projects based on java or python and also looking forward to contribute to open source projects realted to devops tools
 - 📫 How to reach me : discord:rghdrizzle#2806 email:rockgameplayhakeem@gmail.com business_email:luqmaan1hakeem@gmail.com 
 
+### Cloud Native tools:
 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Circleci](https://img.shields.io/badge/circleci-%2320232a.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![Prometheus](https://img.shields.io/badge/prometheus-white.svg?style=for-the-badge&logo=prometheus&logoColor=orange)
+![Terraform](https://img.shields.io/badge/terraform-white.svg?style=for-the-badge&logo=terraform&logoColor=purple)
+![Helm](https://img.shields.io/badge/helm-white.svg?style=for-the-badge&logo=helm&logoColor=blue)
 
 ### Languages:
 
@@ -26,13 +33,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Cloud Native tools:
 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Circleci](https://img.shields.io/badge/circleci-%2320232a.svg?style=for-the-badge&logo=circleci&logoColor=white)
-![Prometheus](https://img.shields.io/badge/prometheus-white.svg?style=for-the-badge&logo=prometheus&logoColor=orange)
-![Terraform](https://img.shields.io/badge/terraform-white.svg?style=for-the-badge&logo=terraform&logoColor=purple)
 
 
 
