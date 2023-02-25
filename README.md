@@ -13,6 +13,7 @@
 ![Prometheus](https://img.shields.io/badge/prometheus-white.svg?style=for-the-badge&logo=prometheus&logoColor=orange)
 ![Terraform](https://img.shields.io/badge/terraform-white.svg?style=for-the-badge&logo=terraform&logoColor=purple)
 ![Helm](https://img.shields.io/badge/helm-white.svg?style=for-the-badge&logo=helm&logoColor=blue)
+![Ansible](https://img.shields.io/badge/ansible-white.svg?style=for-the-badge&logo=ansible&logoColor=black)
 
 ### Languages:
 
