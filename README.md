@@ -26,7 +26,7 @@
 ![C](https://img.shields.io/badge/c-%230095D5.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23323330.svg?style=for-the-badge&logo=ruby&logoColor=%23F7DF1E)
 ![Bash](https://img.shields.io/badge/bash-%23323330.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-
+![YAML](https://img.shields.io/badge/yaml-%23323330.svg?style=for-the-badge&logo=yaml&logoColor=white)
 
 
 ### Libraries and Frameworks:
