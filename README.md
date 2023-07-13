@@ -1,7 +1,7 @@
 <img src=https://c.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif></img>
 - 👋 Hi, I’m Luqmaan , you can call me rghdrizzle or drizzle
 - 👀 I’m interested in programming and designing infrastructures
-- 🌱 I’m currently learning various technologies in the field of devops ,deep learning and also learning DSA
+- 🌱 I’m currently learning various technologies in the field of devops ,deep learning and game development in unity and also learning DSA
 - 💞️ I’m looking to collaborate on projects based on java or python and also looking forward to contribute to open source projects realted to any devops tasks
 - 📫 How to reach me : discord:rghdrizzle#2806 email:rockgameplayhakeem@gmail.com business_email:luqmaan1hakeem@gmail.com 
 - [Open for work (Intern/part-time/contract)]
@@ -25,9 +25,18 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB)
 ![C](https://img.shields.io/badge/c-%230095D5.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23323330.svg?style=for-the-badge&logo=ruby&logoColor=%23F7DF1E)
 ![Bash](https://img.shields.io/badge/bash-%23323330.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23323330.svg?style=for-the-badge&logo=yaml&logoColor=white)
+
+
+### Cloud providers
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Game engine
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
 
 
 ### Libraries and Frameworks:
@@ -39,11 +48,10 @@
 
 
 
-
-
 <img src ="https://github-readme-stats.vercel.app/api?username=rghdrizzle&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rghdrizzle&theme=gruvbox&row=1&no-frame=true&no-bg=true)
+
 
 <!---
 rghdrizzle/rghdrizzle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
