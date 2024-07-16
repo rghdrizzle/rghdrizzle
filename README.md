@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning various technologies in the field of devops , game development in unity3D+c# , backend in golang and also learning DSA
 - 💞️ I’m looking to collaborate on projects based on goalang or python and also looking forward to contribute to open source projects realted to any devops tasks
 - 📫 How to reach me : discord:rghdrizzle#2806 email:rockgameplayhakeem@gmail.com business_email:luqmaan1hakeem@gmail.com 
-- [Open for work (Intern/part-time/contract)]
+- [Open for work (Intern/part-time/full-time)]
 
 ### Cloud Native tools:
 
